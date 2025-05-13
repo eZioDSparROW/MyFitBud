@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Beginner's Yoga Guide",
+        "category": "fitness",
+        "date": "2023-06-10",
+        "image": "https://images.unsplash.com/photo-1545205597-3d9d02c29597",
+        "excerpt": "Learn basic yoga poses to improve flexibility and reduce stress.",
+        "content": "<h2>Getting Started with Yoga</h2><p>Yoga is an ancient practice...</p>"
+    },
+    {
+        "id": 2,
+        "title": "Healthy Sleep Habits",
+        "category": "wellness",
+        "date": "2023-06-05",
+        "image": "https://images.unsplash.com/photo-1496395031280-4201b0e022ca",
+        "excerpt": "Improve your sleep quality with these evidence-based tips.",
+        "content": "<h2>The Importance of Sleep</h2><p>Quality sleep is essential...</p>"
+    }
+]
